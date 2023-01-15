@@ -1,4 +1,8 @@
-### Hi there 👋
+ Hi there 👋 I am Janat
+ 
+🔭 I’m currently working on developing my automation skills 
+
+Thanks for visiting me 
 
 <!--
 **janat81/janat81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
